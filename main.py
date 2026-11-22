@@ -1,10 +1,10 @@
 """Punto de entrada. Ejecutar desde esta carpeta: python main.py"""
 
-from juego import jugar
+from vista_tk import iniciar_aplicacion
 
 
 def main() -> None:
-    jugar()
+    iniciar_aplicacion()
 
 
 if __name__ == "__main__":
