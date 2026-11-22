@@ -1,0 +1,2 @@
+# El juego solo usa la biblioteca estándar de Python.
+# No hay dependencias de terceros que instalar.
